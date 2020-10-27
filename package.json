@@ -14,12 +14,12 @@
     "dwebtrie",
     "multigraph"
   ],
-  "author": "Andrew Osheroff <andrewosh@gmail.com>",
+  "author": "Peeps Labs <peepslabs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrewosh/dwebtrie-multigraph/issues"
+    "url": "https://github.com/DistributedWeb/dwebtrie-multigraph/issues"
   },
-  "homepage": "https://github.com/andrewosh/dwebtrie-multigraph#readme",
+  "homepage": "https://github.com/DistributedWeb/dwebtrie-multigraph#readme",
   "devDependencies": {
     "dwebtrie": "git://github.com/DistributedWeb/dwebtrie.git#98a08a868ed44440307090af8b6f87d222b72317",
     "random-access-memory": "^3.1.1",
