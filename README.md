@@ -1,7 +1,7 @@
 # dwebtrie-multigraph
 [![Build Status](https://travis-ci.com/distributedweb/dwebtrie-multigraph.svg?branch=master)](https://travis-ci.com/distributedweb/dwebtrie-multigraph)
 
-A simple directed multigraph built on DWebtrie. Edges are stored in the DWebtrie using keys of the form `label/from/to`. Currently, the API exposes an iterator that performs a depth-first graph traversal.
+A simple directed multigraph built on dWebTrie. Edges are stored in the dWebTrie using keys of the form `label/from/to`. Currently, the API exposes an iterator that performs a depth-first graph traversal.
 
 ## Installation
 ```
